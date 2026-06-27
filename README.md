@@ -150,3 +150,67 @@ superstore-sales-analysis-dashboard/
 | |-screenshort-Dashboard
 
 ```
+
+**📈 Dashboard Visualizations**
+
+The dashboard includes:
+
+* KPI Cards
+
+* Region Slicer
+
+* Year Slicer
+
+* Ship Mode Distribution (Pie Chart)
+
+* Region-wise Sales Contribution (Doughnut Chart)
+
+* Monthly Quantity Sold Trend (Line Chart)
+
+* Top 5 Cities by Sales (Column Chart)
+
+* Category-wise Transaction Count (Bar Chart)
+
+* Customer Segment-wise Quantity Ordered (Bar Chart)
+
+**📊 Business Insights**
+
+**Regional Performance**
+
+* West region contributes the highest sales.
+  
+* South region contributes the lowest sales.
+
+**Shipping Analysis**
+
+* Standard Class is the most preferred shipping mode.
+
+**Monthly Trend**
+
+* Sales increase significantly between September and November.
+
+**Customer Analysis**
+
+* Consumer segment contributes the highest sales volume.
+
+**Category Analysis**
+
+* Office Supplies receive the highest number of transactions.
+
+**City Analysis**
+
+* New York generates the highest sales.
+
+**💡 Business Recommendations**
+
+* Increase marketing campaigns in low-performing regions.
+
+* Maintain sufficient inventory before the festive sales season.
+
+* Expand successful sales strategies from top-performing cities.
+
+* Improve customer retention through loyalty programs.
+
+* Promote faster shipping options where appropriate.
+
+* Monitor monthly sales trends for better inventory planning.
