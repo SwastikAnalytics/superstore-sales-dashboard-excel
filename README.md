@@ -140,9 +140,13 @@ superstore-sales-analysis-dashboard/
 |-README.md
 |-Superstore Sales Dashboard – Business Analysis Report
 |
+|-Data/
+| |-Superstore data
+|
 |-Dashboard/
 | |-Superstore Sales Dashboard (1)
-
-
+|
+|-image/
+| |-screenshort-Dashboard
 
 ```
