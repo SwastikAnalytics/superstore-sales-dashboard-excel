@@ -117,3 +117,17 @@ The dashboard is built using the Sample Superstore Dataset, which contains retai
 * Price/Unit
 
 * Quantity
+
+  **🛠️ Tools & Technologies**
+  
+Tool	                           Purpose
+
+* Microsoft                        Excel	Dashboard Development
+
+Pivot Tables	                   Data Aggregation
+
+Pivot Charts	                   Data Visualization
+
+Power Query	                     Data Cleaning & Transformation
+
+Slicers	                         Interactive Filtering
