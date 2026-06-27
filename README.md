@@ -118,11 +118,11 @@ The dashboard is built using the Sample Superstore Dataset, which contains retai
 
 * Quantity
 
-  **🛠️ Tools & Technologies**
+**🛠️ Tools & Technologies**
   
-Tool	                           Purpose
+Tool	                           
 
-* Microsoft                        Excel	Dashboard Development
+* Microsoft-Excel	Dashboard Development
 
 Pivot Tables	                   Data Aggregation
 
