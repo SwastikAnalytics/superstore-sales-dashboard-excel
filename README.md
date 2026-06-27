@@ -133,6 +133,7 @@ The dashboard is built using the Sample Superstore Dataset, which contains retai
 * GitHub-Project documentation and portfolio
 
 **📁 Project Structure**
+```text
 
 superstore-sales-analysis-dashboard/
 |
@@ -141,4 +142,7 @@ superstore-sales-analysis-dashboard/
 |-Superstore Sales Dashboard – Business Analysis Report
 |
 |-Dashboard/
-|          |-Superstore Sales Dashboard (1)
+|
+|-Superstore Sales Dashboard (1)
+
+```
