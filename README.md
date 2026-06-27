@@ -119,15 +119,26 @@ The dashboard is built using the Sample Superstore Dataset, which contains retai
 * Quantity
 
 **🛠️ Tools & Technologies**
-  
-Tool	                           
-
+  	                           
 * Microsoft-Excel	Dashboard Development
 
-Pivot Tables	                   Data Aggregation
+* Pivot Tables-Data Aggregation
 
-Pivot Charts	                   Data Visualization
+* Pivot Charts-Data Visualization
 
-Power Query	                     Data Cleaning & Transformation
+* Power Query-Data Cleaning & Transformation
 
-Slicers	                         Interactive Filtering
+* Slicers-Interactive Filtering
+  
+* GitHub-Project documentation and portfolio
+
+**📁 Project Structure**
+
+superstore-sales-analysis-dashboard/
+|
+|-README.md
+|
+|-Superstore Sales Dashboard – Business Analysis Report
+|
+|-Dashboard/
+|          |-Superstore Sales Dashboard (1)
