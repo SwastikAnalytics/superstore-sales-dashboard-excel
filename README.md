@@ -218,5 +218,5 @@ The dashboard includes:
 **🖼️ Dashboard Screenshot**
 
 <a href="screenshots/dashboard.png">
-  <img src="screenshots/dashboard.png" width="1000">
+  <img src="image/Screenshot 2026-06-27 182145.png" width="1000">
 </a>
