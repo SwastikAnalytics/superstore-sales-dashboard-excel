@@ -207,10 +207,16 @@ The dashboard includes:
 
 * Maintain sufficient inventory before the festive sales season.
 
-* Expand successful sales strategies from top-performing cities.
+* Expand successful sales strategies from top-performing cities. 
 
 * Improve customer retention through loyalty programs.
 
 * Promote faster shipping options where appropriate.
 
 * Monitor monthly sales trends for better inventory planning.
+
+**🖼️ Dashboard Screenshot**
+
+<a href="screenshots/dashboard.png">
+  <img src="screenshots/dashboard.png" width="1000">
+</a>
