@@ -8,28 +8,47 @@ An interactive sales dashboard built using Microsoft Excel, Pivot Tables, Pivot 
 
 [Business Problem](#business-problem)
 
-Project Objective
+[Project Objective](#project-objective)
 
-Dataset
+[Dataset](#dataset)
 
-Tools & Technologies
+[Tools & Technologies](#tools--technologies)
 
-Project Structure
+[Project Structure](#project-structure)
 
-Dashboard KPIs
+[Dashboard KPIs](#-dashboard-kpis)
 
-Dashboard Visualizations
+[Dashboard Visualizations](#-dashboard-visualizations)
 
-Business Insights
+[Business Insights](#-business-insights)
 
-Business Recommendations
+[Business Recommendations](#-business-recommendations)
 
-Dashboard Screenshot
+[Dashboard Screenshot](#-dashboard-screenshot)
 
-How to Use
+[How to Use](#-how-to-use)
 
-Results & Business Impact
+[Results & Business Impact](#-results--business-impact)
 
-Future Improvements
+[Future Improvements](#-future-improvements)
 
-Author
+[Author](#-author)
+
+**📖 Overview**
+
+Retail businesses generate thousands of sales transactions across different regions, customer segments, and product categories. Analyzing this data manually is time-consuming and often delays business decisions.
+
+This project presents an interactive Sales Analysis Dashboard developed in Microsoft Excel. The dashboard transforms raw sales data into meaningful insights through KPIs, Pivot Tables, Pivot Charts, and Slicers, enabling users to monitor business performance and make informed decisions.
+
+**💼 Business Problem**
+
+Retail companies need quick answers to questions such as:
+
+*Which regions generate the highest sales?
+*Which customer segment contributes the most revenue?
+*Which cities are top-performing?
+*What is the preferred shipping mode?
+*How do sales change throughout the year?
+*Which product categories receive the highest demand?
+
+Without an interactive dashboard, answering these questions requires manually analyzing thousands of transaction records.
