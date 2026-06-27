@@ -220,3 +220,57 @@ The dashboard includes:
 <a href="screenshots/dashboard.png">
   <img src="image/Screenshot 2026-06-27 182145.png" width="1000">
 </a>
+
+**🚀 How to Use**
+
+1.Download the Excel workbook.
+
+2.Open the dashboard in Microsoft Excel.
+
+3.Refresh the Pivot Tables if new data is added.
+
+4.Use Region and Year slicers to filter the dashboard.
+
+5.Explore KPIs and charts for business insights.
+
+**📈 Results & Business Impact**
+
+This dashboard helps businesses:
+
+* Monitor sales performance in real time.
+
+* Identify top-performing regions and cities.
+
+* Understand customer purchasing behavior.
+
+* Improve inventory planning.
+
+* Optimize marketing strategies.
+
+* Enable faster, data-driven decision-making.
+
+**🔮 Future Improvements**
+
+* Power BI version of the dashboard
+
+* SQL database integration
+  
+* Automated Power Query refresh
+
+* Sales forecasting using Python
+
+* Profit and discount analysis
+
+* Customer retention analysis
+
+* Dynamic KPI selection using slicers
+
+**👨‍💻 Author**
+
+Swastik Kumar
+
+B.E. Computer Engineering
+
+Data Analyst | Excel | SQL | Power BI | Python 
+
+GitHub: https://github.com/SwastikAnalytics
