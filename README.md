@@ -141,9 +141,9 @@ superstore-sales-analysis-dashboard/
 |
 |-Superstore Sales Dashboard – Business Analysis Report
 |
-|-Dashboard/
-|          |-Superstore Sales Dashboard (1)
-|
-|-Superstore Sales Dashboard (1)
+|-Dashboard/|
+|           |-Superstore Sales Dashboard (1)
+
+
 
 ```
