@@ -45,10 +45,15 @@ This project presents an interactive Sales Analysis Dashboard developed in Micro
 Retail companies need quick answers to questions such as:
 
 *Which regions generate the highest sales?
+
 *Which customer segment contributes the most revenue?
+
 *Which cities are top-performing?
+
 *What is the preferred shipping mode?
+
 *How do sales change throughout the year?
+
 *Which product categories receive the highest demand?
 
 Without an interactive dashboard, answering these questions requires manually analyzing thousands of transaction records.
