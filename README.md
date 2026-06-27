@@ -57,3 +57,63 @@ Retail companies need quick answers to questions such as:
 * Which product categories receive the highest demand?
 
 Without an interactive dashboard, answering these questions requires manually analyzing thousands of transaction records.
+
+**🎯 Project Objective**
+
+The objective of this project is to build an interactive Excel dashboard that enables stakeholders to:
+
+* Monitor key sales KPIs
+
+* Analyze regional performance
+
+* Track monthly sales trends
+
+* Compare customer segments
+
+* Evaluate shipping preferences
+
+* Identify top-performing cities
+
+* Support data-driven business decisions
+
+**📂 Dataset**
+
+The dashboard is built using the Sample Superstore Dataset, which contains retail transaction data.
+
+* Row Id
+
+* Order Id
+
+* Order date
+
+* Ship date
+
+* Ship mode
+
+* Customer Id
+
+* Customer name
+
+* Segment
+
+* Country
+
+* City
+
+* State
+
+* Postal code
+
+* Region
+
+* Product id
+
+* Category
+
+* Sub – Category
+
+* Product name
+
+* Price/Unit
+
+* Quantity
