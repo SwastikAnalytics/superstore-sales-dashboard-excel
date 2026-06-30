@@ -278,7 +278,7 @@ This dashboard helps businesses:
 
 **B.E. Computer Engineering**
 
-**Data Analyst | Excel | SQL | Power BI | Python | Google Apps Script**
+**Data Analyst | Excel | SQL | Power BI | Python |**
 
 GitHub: https://github.com/SwastikAnalytics
 
